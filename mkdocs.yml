@@ -1,0 +1,11 @@
+site_name: 激光自混合干涉传感 
+site_favicon: favicon.ico
+site_url:
+nav:
+- Overview:
+    - Introduction: Introduction.md
+    - About this document: About-this-document.md
+  
+theme: readthedocs
+site_author: ASR-Crash
+copyright: Copyright © 2022 ASR-Crash <img src='https://xmu-rm-hwsd-um.readthedocs.io/en/latest/img/ASR-WS.png' width='64'> |&nbsp; <img src='https://xmu-rm-hwsd-um.readthedocs.io/en/latest/img/Crash-precision.png' width='160'> 
